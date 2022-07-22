@@ -1,0 +1,6 @@
+.idea/
+post/__pycache__/
+post/migrations/
+user/__pycache__/
+user/migrations/
+ta/__pycache__/
