@@ -17,8 +17,6 @@ admin 계정은 david@test.com // 1234
 
 candidate1@test.com 계정으로 로그인 후에 JWT 토큰을 사용해서 다음과 같이 요청해서 테스트해보세요.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89efa726-98fb-41b5-898f-376f66a3515a/Untitled.png)
-
 6. 채용담당자가 채용진행 상황(interviewed, accepted, offer in progress)등을 남길수 있도록 모델을 추가해보세요.
 
 7. 채용담당자가 채용진행 상황을 변경한 로그를 저장할 수 있도록 모델을 추가해보고 JobPostActivity과 관계를 지어 보세요.
